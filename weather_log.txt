@@ -3,3 +3,5 @@
 2026-06-15 20:42:54.343095 | guntur | 33.41°C | overcast clouds
 2026-06-15 21:21:26.338264 | vijayawada | 34.59°C | overcast clouds
 2026-06-15 21:21:35.866218 | london | 22.06°C | overcast clouds
+2026-06-15 21:25:54.394414 | chennai | 31.83°C | overcast clouds
+2026-06-15 21:26:02.685651 | lucknow | 37.97°C | few clouds
